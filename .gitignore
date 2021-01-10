@@ -1,0 +1,4 @@
+.idea
+venv/
+fonts/
+*.pyc
